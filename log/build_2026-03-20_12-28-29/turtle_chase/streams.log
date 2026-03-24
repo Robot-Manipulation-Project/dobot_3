@@ -1,0 +1,23 @@
+[9.799s] Invoking command in '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/src/turtle_chase': PYTHONPATH=/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_chase build --build-base /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/build install --record /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/install.log --single-version-externally-managed install_data
+[14.100s] running egg_info
+[14.191s] writing ../../build/turtle_chase/turtle_chase.egg-info/PKG-INFO
+[14.230s] writing dependency_links to ../../build/turtle_chase/turtle_chase.egg-info/dependency_links.txt
+[14.277s] writing entry points to ../../build/turtle_chase/turtle_chase.egg-info/entry_points.txt
+[14.325s] writing requirements to ../../build/turtle_chase/turtle_chase.egg-info/requires.txt
+[14.364s] writing top-level names to ../../build/turtle_chase/turtle_chase.egg-info/top_level.txt
+[14.954s] reading manifest file '../../build/turtle_chase/turtle_chase.egg-info/SOURCES.txt'
+[15.433s] adding license file 'LICENSE'
+[15.715s] writing manifest file '../../build/turtle_chase/turtle_chase.egg-info/SOURCES.txt'
+[15.732s] running build
+[15.736s] running build_py
+[16.183s] running install
+[16.255s] running install_lib
+[18.027s] running install_data
+[18.158s] running install_egg_info
+[18.371s] removing '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages/turtle_chase-0.0.0-py3.12.egg-info' (and everything under it)
+[18.831s] Copying ../../build/turtle_chase/turtle_chase.egg-info to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages/turtle_chase-0.0.0-py3.12.egg-info
+[20.421s] running install_scripts
+[21.582s] Installing follower script to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/turtle_chase
+[21.637s] Installing leader script to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/turtle_chase
+[21.745s] writing list of installed files to '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/install.log'
+[21.889s] Invoked command in '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/src/turtle_chase' returned '0': PYTHONPATH=/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_chase build --build-base /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/build install --record /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/install.log --single-version-externally-managed install_data

@@ -1,0 +1,3 @@
+[console_scripts]
+follower = turtle_chase.follower:main
+leader = turtle_chase.leader:main

@@ -2,6 +2,9 @@ from setuptools import find_packages, setup
 
 package_name = 'turtle_chase'
 
+# Yasiru Fernando : 22345563
+# Ladurshi Sivapalan: 22295011
+
 setup(
     name=package_name,
     version='0.0.0',

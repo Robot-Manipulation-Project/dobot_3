@@ -1,0 +1,261 @@
+[0.000000] (-) TimerEvent: {}
+[0.000871] (turtle_chase) JobQueued: {'identifier': 'turtle_chase', 'dependencies': OrderedDict()}
+[0.001572] (turtle_chase) JobStarted: {'identifier': 'turtle_chase'}
+[0.094538] (-) TimerEvent: {}
+[0.195173] (-) TimerEvent: {}
+[0.297102] (-) TimerEvent: {}
+[0.397994] (-) TimerEvent: {}
+[0.498912] (-) TimerEvent: {}
+[0.601584] (-) TimerEvent: {}
+[0.705148] (-) TimerEvent: {}
+[0.808932] (-) TimerEvent: {}
+[0.913205] (-) TimerEvent: {}
+[1.021607] (-) TimerEvent: {}
+[1.125912] (-) TimerEvent: {}
+[1.229140] (-) TimerEvent: {}
+[1.332976] (-) TimerEvent: {}
+[1.439006] (-) TimerEvent: {}
+[1.542875] (-) TimerEvent: {}
+[1.646240] (-) TimerEvent: {}
+[1.749103] (-) TimerEvent: {}
+[1.850836] (-) TimerEvent: {}
+[1.954536] (-) TimerEvent: {}
+[2.055361] (-) TimerEvent: {}
+[2.157388] (-) TimerEvent: {}
+[2.258399] (-) TimerEvent: {}
+[2.359819] (-) TimerEvent: {}
+[2.460674] (-) TimerEvent: {}
+[2.563390] (-) TimerEvent: {}
+[2.664748] (-) TimerEvent: {}
+[2.765688] (-) TimerEvent: {}
+[2.867509] (-) TimerEvent: {}
+[2.973795] (-) TimerEvent: {}
+[3.076517] (-) TimerEvent: {}
+[3.178441] (-) TimerEvent: {}
+[3.280225] (-) TimerEvent: {}
+[3.387735] (-) TimerEvent: {}
+[3.492010] (-) TimerEvent: {}
+[3.595991] (-) TimerEvent: {}
+[3.702680] (-) TimerEvent: {}
+[3.806270] (-) TimerEvent: {}
+[3.910725] (-) TimerEvent: {}
+[4.014411] (-) TimerEvent: {}
+[4.117972] (-) TimerEvent: {}
+[4.221686] (-) TimerEvent: {}
+[4.325635] (-) TimerEvent: {}
+[4.428753] (-) TimerEvent: {}
+[4.531422] (-) TimerEvent: {}
+[4.637272] (-) TimerEvent: {}
+[4.742132] (-) TimerEvent: {}
+[4.845912] (-) TimerEvent: {}
+[4.950024] (-) TimerEvent: {}
+[5.053618] (-) TimerEvent: {}
+[5.158718] (-) TimerEvent: {}
+[5.263049] (-) TimerEvent: {}
+[5.368089] (-) TimerEvent: {}
+[5.474457] (-) TimerEvent: {}
+[5.576051] (-) TimerEvent: {}
+[5.679982] (-) TimerEvent: {}
+[5.785520] (-) TimerEvent: {}
+[5.886607] (-) TimerEvent: {}
+[5.991192] (-) TimerEvent: {}
+[6.095158] (-) TimerEvent: {}
+[6.198947] (-) TimerEvent: {}
+[6.304950] (-) TimerEvent: {}
+[6.411702] (-) TimerEvent: {}
+[6.515343] (-) TimerEvent: {}
+[6.619315] (-) TimerEvent: {}
+[6.725526] (-) TimerEvent: {}
+[6.828188] (-) TimerEvent: {}
+[6.932523] (-) TimerEvent: {}
+[7.036496] (-) TimerEvent: {}
+[7.140146] (-) TimerEvent: {}
+[7.244523] (-) TimerEvent: {}
+[7.348391] (-) TimerEvent: {}
+[7.452203] (-) TimerEvent: {}
+[7.555727] (-) TimerEvent: {}
+[7.659517] (-) TimerEvent: {}
+[7.763350] (-) TimerEvent: {}
+[7.870732] (-) TimerEvent: {}
+[7.978087] (-) TimerEvent: {}
+[8.084462] (-) TimerEvent: {}
+[8.190583] (-) TimerEvent: {}
+[8.295767] (-) TimerEvent: {}
+[8.400731] (-) TimerEvent: {}
+[8.507952] (-) TimerEvent: {}
+[8.610701] (-) TimerEvent: {}
+[8.714665] (-) TimerEvent: {}
+[8.821106] (-) TimerEvent: {}
+[8.928395] (-) TimerEvent: {}
+[9.035578] (-) TimerEvent: {}
+[9.142123] (-) TimerEvent: {}
+[9.248721] (-) TimerEvent: {}
+[9.355538] (-) TimerEvent: {}
+[9.461930] (-) TimerEvent: {}
+[9.568863] (-) TimerEvent: {}
+[9.672049] (-) TimerEvent: {}
+[9.742906] (turtle_chase) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/turtle_chase', 'build', '--build-base', '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/build', 'install', '--record', '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/src/turtle_chase', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'yasiru', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/kilted/opt/gz_math_vendor/lib:/opt/ros/kilted/opt/gz_utils_vendor/lib:/opt/ros/kilted/opt/rviz_ogre_vendor/lib:/opt/ros/kilted/lib/x86_64-linux-gnu:/opt/ros/kilted/opt/gz_cmake_vendor/lib:/opt/ros/kilted/lib', 'WT_PROFILE_ID': '{61c54bbd-c2c6-5271-96e7-009a87ff44bf}', 'HOME': '/home/yasiru', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'WSL_DISTRO_NAME': 'Ubuntu-24.04', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install', 'ROS_DISTRO': 'kilted', 'LOGNAME': 'yasiru', 'NAME': 'DESKTOP-Q4KDUO9', 'WSL_INTEROP': '/run/WSL/2054_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'PATH': '/opt/ros/kilted/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/Git/cmd:/mnt/c/MinGW/bin:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR:/mnt/c/Program Files (x86)/Microsoft SQL Server/160/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/160/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/160/DTS/Binn/:/mnt/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit/:/mnt/c/Program Files/GitHub CLI/:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files (x86)/cloudflared/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/Common Files/Autodesk Shared/:/mnt/c/Program Files/Microsoft SQL Server/150/Tools/Binn/:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Program Files/Cloudflare/Cloudflare WARP/:/mnt/c/Strawberry/c/bin:/mnt/c/Strawberry/perl/site/bin:/mnt/c/Strawberry/perl/bin:/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/:/mnt/c/Users/U S E R/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/U S E R/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/U S E R/AppData/Local/PowerToys/:/mnt/c/Users/U S E R/AppData/Local/Python/bin:/mnt/c/Users/U S E R/AppData/Roaming/npm:/mnt/c/Users/U S E R/AppData/Local/Programs/Ollama:/mnt/c/ffmpeg-2026-02-02-git-7e9fe341df-full_build/bin:/mnt/c/Users/U S E R/AppData/Local/Programs/MiKTeX/miktex/bin/x64/:/snap/bin', 'WT_SESSION': 'bbd3db98-0693-4c11-82f5-36acb01fc1d4', 'XDG_RUNTIME_DIR': '/run/user/1000/', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'AMENT_PREFIX_PATH': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase:/opt/ros/kilted', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages:/opt/ros/kilted/lib/python3.12/site-packages', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor', 'WSLENV': 'WT_SESSION:WT_PROFILE_ID:'}, 'shell': False}
+[9.817243] (-) TimerEvent: {}
+[9.923390] (-) TimerEvent: {}
+[10.029240] (-) TimerEvent: {}
+[10.135285] (-) TimerEvent: {}
+[10.239962] (-) TimerEvent: {}
+[10.344695] (-) TimerEvent: {}
+[10.451043] (-) TimerEvent: {}
+[10.555207] (-) TimerEvent: {}
+[10.659209] (-) TimerEvent: {}
+[10.767130] (-) TimerEvent: {}
+[10.873937] (-) TimerEvent: {}
+[10.980245] (-) TimerEvent: {}
+[11.087120] (-) TimerEvent: {}
+[11.193524] (-) TimerEvent: {}
+[11.299187] (-) TimerEvent: {}
+[11.401765] (-) TimerEvent: {}
+[11.506207] (-) TimerEvent: {}
+[11.610844] (-) TimerEvent: {}
+[11.715028] (-) TimerEvent: {}
+[11.818184] (-) TimerEvent: {}
+[11.922635] (-) TimerEvent: {}
+[12.028844] (-) TimerEvent: {}
+[12.133576] (-) TimerEvent: {}
+[12.237272] (-) TimerEvent: {}
+[12.341149] (-) TimerEvent: {}
+[12.444880] (-) TimerEvent: {}
+[12.548401] (-) TimerEvent: {}
+[12.652362] (-) TimerEvent: {}
+[12.758724] (-) TimerEvent: {}
+[12.864554] (-) TimerEvent: {}
+[12.970731] (-) TimerEvent: {}
+[13.077170] (-) TimerEvent: {}
+[13.182225] (-) TimerEvent: {}
+[13.286041] (-) TimerEvent: {}
+[13.389526] (-) TimerEvent: {}
+[13.493948] (-) TimerEvent: {}
+[13.599729] (-) TimerEvent: {}
+[13.715122] (-) TimerEvent: {}
+[13.818977] (-) TimerEvent: {}
+[13.922960] (-) TimerEvent: {}
+[14.031045] (-) TimerEvent: {}
+[14.099137] (turtle_chase) StdoutLine: {'line': b'running egg_info\n'}
+[14.132209] (-) TimerEvent: {}
+[14.191076] (turtle_chase) StdoutLine: {'line': b'writing ../../build/turtle_chase/turtle_chase.egg-info/PKG-INFO\n'}
+[14.229526] (turtle_chase) StdoutLine: {'line': b'writing dependency_links to ../../build/turtle_chase/turtle_chase.egg-info/dependency_links.txt\n'}
+[14.233633] (-) TimerEvent: {}
+[14.273706] (turtle_chase) StdoutLine: {'line': b'writing entry points to ../../build/turtle_chase/turtle_chase.egg-info/entry_points.txt\n'}
+[14.321795] (turtle_chase) StdoutLine: {'line': b'writing requirements to ../../build/turtle_chase/turtle_chase.egg-info/requires.txt\n'}
+[14.334327] (-) TimerEvent: {}
+[14.357779] (turtle_chase) StdoutLine: {'line': b'writing top-level names to ../../build/turtle_chase/turtle_chase.egg-info/top_level.txt\n'}
+[14.435945] (-) TimerEvent: {}
+[14.540021] (-) TimerEvent: {}
+[14.644116] (-) TimerEvent: {}
+[14.748133] (-) TimerEvent: {}
+[14.855131] (-) TimerEvent: {}
+[14.954624] (turtle_chase) StdoutLine: {'line': b"reading manifest file '../../build/turtle_chase/turtle_chase.egg-info/SOURCES.txt'\n"}
+[14.958117] (-) TimerEvent: {}
+[15.062053] (-) TimerEvent: {}
+[15.166714] (-) TimerEvent: {}
+[15.271596] (-) TimerEvent: {}
+[15.378260] (-) TimerEvent: {}
+[15.431460] (turtle_chase) StdoutLine: {'line': b"adding license file 'LICENSE'\n"}
+[15.479737] (-) TimerEvent: {}
+[15.586629] (-) TimerEvent: {}
+[15.693578] (-) TimerEvent: {}
+[15.716860] (turtle_chase) StdoutLine: {'line': b"writing manifest file '../../build/turtle_chase/turtle_chase.egg-info/SOURCES.txt'\n"}
+[15.732088] (turtle_chase) StdoutLine: {'line': b'running build\n'}
+[15.735571] (turtle_chase) StdoutLine: {'line': b'running build_py\n'}
+[15.795675] (-) TimerEvent: {}
+[15.902133] (-) TimerEvent: {}
+[16.006735] (-) TimerEvent: {}
+[16.111609] (-) TimerEvent: {}
+[16.182295] (turtle_chase) StdoutLine: {'line': b'running install\n'}
+[16.212856] (-) TimerEvent: {}
+[16.253023] (turtle_chase) StdoutLine: {'line': b'running install_lib\n'}
+[16.315082] (-) TimerEvent: {}
+[16.421150] (-) TimerEvent: {}
+[16.527934] (-) TimerEvent: {}
+[16.636239] (-) TimerEvent: {}
+[16.743549] (-) TimerEvent: {}
+[16.848300] (-) TimerEvent: {}
+[16.952215] (-) TimerEvent: {}
+[17.058341] (-) TimerEvent: {}
+[17.163815] (-) TimerEvent: {}
+[17.272508] (-) TimerEvent: {}
+[17.379175] (-) TimerEvent: {}
+[17.488423] (-) TimerEvent: {}
+[17.595128] (-) TimerEvent: {}
+[17.700575] (-) TimerEvent: {}
+[17.807109] (-) TimerEvent: {}
+[17.915757] (-) TimerEvent: {}
+[18.020646] (-) TimerEvent: {}
+[18.026591] (turtle_chase) StdoutLine: {'line': b'running install_data\n'}
+[18.123461] (-) TimerEvent: {}
+[18.147262] (turtle_chase) StdoutLine: {'line': b'running install_egg_info\n'}
+[18.225983] (-) TimerEvent: {}
+[18.336506] (-) TimerEvent: {}
+[18.371053] (turtle_chase) StdoutLine: {'line': b"removing '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages/turtle_chase-0.0.0-py3.12.egg-info' (and everything under it)\n"}
+[18.438105] (-) TimerEvent: {}
+[18.541830] (-) TimerEvent: {}
+[18.647049] (-) TimerEvent: {}
+[18.752979] (-) TimerEvent: {}
+[18.832357] (turtle_chase) StdoutLine: {'line': b'Copying ../../build/turtle_chase/turtle_chase.egg-info to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages/turtle_chase-0.0.0-py3.12.egg-info\n'}
+[18.853608] (-) TimerEvent: {}
+[18.955903] (-) TimerEvent: {}
+[19.060331] (-) TimerEvent: {}
+[19.167901] (-) TimerEvent: {}
+[19.273574] (-) TimerEvent: {}
+[19.378617] (-) TimerEvent: {}
+[19.484109] (-) TimerEvent: {}
+[19.586104] (-) TimerEvent: {}
+[19.693034] (-) TimerEvent: {}
+[19.798146] (-) TimerEvent: {}
+[19.902448] (-) TimerEvent: {}
+[20.009446] (-) TimerEvent: {}
+[20.114263] (-) TimerEvent: {}
+[20.219226] (-) TimerEvent: {}
+[20.323396] (-) TimerEvent: {}
+[20.421525] (turtle_chase) StdoutLine: {'line': b'running install_scripts\n'}
+[20.424575] (-) TimerEvent: {}
+[20.528513] (-) TimerEvent: {}
+[20.632201] (-) TimerEvent: {}
+[20.737105] (-) TimerEvent: {}
+[20.839901] (-) TimerEvent: {}
+[20.943636] (-) TimerEvent: {}
+[21.046599] (-) TimerEvent: {}
+[21.151141] (-) TimerEvent: {}
+[21.256662] (-) TimerEvent: {}
+[21.362899] (-) TimerEvent: {}
+[21.467489] (-) TimerEvent: {}
+[21.572829] (-) TimerEvent: {}
+[21.580168] (turtle_chase) StdoutLine: {'line': b'Installing follower script to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/turtle_chase\n'}
+[21.637919] (turtle_chase) StdoutLine: {'line': b'Installing leader script to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/turtle_chase\n'}
+[21.673342] (-) TimerEvent: {}
+[21.742349] (turtle_chase) StdoutLine: {'line': b"writing list of installed files to '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/install.log'\n"}
+[21.774899] (-) TimerEvent: {}
+[21.880349] (-) TimerEvent: {}
+[21.890420] (turtle_chase) CommandEnded: {'returncode': 0}
+[21.982532] (-) TimerEvent: {}
+[22.087455] (-) TimerEvent: {}
+[22.193403] (-) TimerEvent: {}
+[22.300567] (-) TimerEvent: {}
+[22.408987] (-) TimerEvent: {}
+[22.514999] (-) TimerEvent: {}
+[22.620190] (-) TimerEvent: {}
+[22.722299] (-) TimerEvent: {}
+[22.828027] (-) TimerEvent: {}
+[22.933519] (-) TimerEvent: {}
+[23.040079] (-) TimerEvent: {}
+[23.148665] (-) TimerEvent: {}
+[23.255270] (-) TimerEvent: {}
+[23.360115] (-) TimerEvent: {}
+[23.465749] (-) TimerEvent: {}
+[23.571889] (-) TimerEvent: {}
+[23.676780] (-) TimerEvent: {}
+[23.782240] (-) TimerEvent: {}
+[23.888775] (-) TimerEvent: {}
+[24.004359] (-) TimerEvent: {}
+[24.109290] (-) TimerEvent: {}
+[24.213126] (-) TimerEvent: {}
+[24.319303] (-) TimerEvent: {}
+[24.423082] (turtle_chase) JobEnded: {'identifier': 'turtle_chase', 'rc': 0}
+[24.554413] (-) TimerEvent: {}
+[24.556180] (-) EventReactorShutdown: {}

@@ -1,0 +1,129 @@
+[3.923s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[3.927s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=False, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=16, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, mixin_files=None, mixin=None, verb_parser=<colcon_mixin.mixin.mixin_argument.MixinArgumentDecorator object at 0x73bb1a58d4f0>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x73bb1a6b1220>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x73bb1a6b1220>>, mixin_verb=('build',))
+[4.300s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[4.303s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[4.304s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[4.305s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[4.307s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[4.308s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[4.310s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws'
+[4.321s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[4.324s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[4.329s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[4.336s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[4.338s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[4.343s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[4.345s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[4.347s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[4.349s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[4.596s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[4.598s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[4.600s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[4.604s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[4.606s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[4.645s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[4.648s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[4.671s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[4.718s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[4.723s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[4.747s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[4.823s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[4.826s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[4.843s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[4.881s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ignore', 'ignore_ament_install']
+[4.884s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore'
+[4.895s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore_ament_install'
+[4.923s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_pkg']
+[4.925s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_pkg'
+[4.942s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_meta']
+[4.945s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_meta'
+[4.962s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ros']
+[4.967s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ros'
+[5.034s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['cmake', 'python']
+[5.041s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cmake'
+[5.055s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python'
+[5.071s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['python_setup_py']
+[5.074s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python_setup_py'
+[5.160s] Level 1:colcon.colcon_core.package_identification:_identify(src/turtle_chase) by extensions ['ignore', 'ignore_ament_install']
+[5.163s] Level 1:colcon.colcon_core.package_identification:_identify(src/turtle_chase) by extension 'ignore'
+[5.178s] Level 1:colcon.colcon_core.package_identification:_identify(src/turtle_chase) by extension 'ignore_ament_install'
+[5.202s] Level 1:colcon.colcon_core.package_identification:_identify(src/turtle_chase) by extensions ['colcon_pkg']
+[5.204s] Level 1:colcon.colcon_core.package_identification:_identify(src/turtle_chase) by extension 'colcon_pkg'
+[5.218s] Level 1:colcon.colcon_core.package_identification:_identify(src/turtle_chase) by extensions ['colcon_meta']
+[5.221s] Level 1:colcon.colcon_core.package_identification:_identify(src/turtle_chase) by extension 'colcon_meta'
+[5.251s] Level 1:colcon.colcon_core.package_identification:_identify(src/turtle_chase) by extensions ['ros']
+[5.253s] Level 1:colcon.colcon_core.package_identification:_identify(src/turtle_chase) by extension 'ros'
+[5.507s] DEBUG:colcon.colcon_core.package_identification:Package 'src/turtle_chase' with type 'ros.ament_python' and name 'turtle_chase'
+[5.509s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[5.513s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[5.516s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[5.518s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[5.521s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[5.846s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[5.847s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[6.366s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 1 installed packages in /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install
+[6.379s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 290 installed packages in /opt/ros/kilted
+[6.389s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[6.662s] Level 5:colcon.colcon_core.verb:set package 'turtle_chase' build argument 'cmake_args' from command line to 'None'
+[6.667s] Level 5:colcon.colcon_core.verb:set package 'turtle_chase' build argument 'cmake_target' from command line to 'None'
+[6.669s] Level 5:colcon.colcon_core.verb:set package 'turtle_chase' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[6.671s] Level 5:colcon.colcon_core.verb:set package 'turtle_chase' build argument 'cmake_clean_cache' from command line to 'False'
+[6.673s] Level 5:colcon.colcon_core.verb:set package 'turtle_chase' build argument 'cmake_clean_first' from command line to 'False'
+[6.675s] Level 5:colcon.colcon_core.verb:set package 'turtle_chase' build argument 'cmake_force_configure' from command line to 'False'
+[6.677s] Level 5:colcon.colcon_core.verb:set package 'turtle_chase' build argument 'ament_cmake_args' from command line to 'None'
+[6.679s] Level 5:colcon.colcon_core.verb:set package 'turtle_chase' build argument 'catkin_cmake_args' from command line to 'None'
+[6.683s] Level 5:colcon.colcon_core.verb:set package 'turtle_chase' build argument 'catkin_skip_building_tests' from command line to 'False'
+[6.685s] DEBUG:colcon.colcon_core.verb:Building package 'turtle_chase' with the following arguments: {'ament_cmake_args': None, 'build_base': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase', 'merge_install': False, 'path': '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/src/turtle_chase', 'symlink_install': False, 'test_result_base': None}
+[6.688s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[6.694s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[6.698s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/src/turtle_chase' with build type 'ament_python'
+[6.701s] Level 1:colcon.colcon_core.shell:create_environment_hook('turtle_chase', 'ament_prefix_path')
+[6.770s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[6.772s] INFO:colcon.colcon_core.shell:Creating environment hook '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/share/turtle_chase/hook/ament_prefix_path.ps1'
+[6.997s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/share/turtle_chase/hook/ament_prefix_path.dsv'
+[7.177s] INFO:colcon.colcon_core.shell:Creating environment hook '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/share/turtle_chase/hook/ament_prefix_path.sh'
+[7.403s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[7.406s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[12.253s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/src/turtle_chase'
+[12.253s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[12.254s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[22.536s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/src/turtle_chase': PYTHONPATH=/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_chase build --build-base /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/build install --record /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/install.log --single-version-externally-managed install_data
+[43.191s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/src/turtle_chase' returned '0': PYTHONPATH=/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_chase build --build-base /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/build install --record /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/install.log --single-version-externally-managed install_data
+[43.334s] Level 1:colcon.colcon_core.environment:checking '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase' for CMake module files
+[44.038s] Level 1:colcon.colcon_core.environment:checking '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase' for CMake config files
+[44.375s] Level 1:colcon.colcon_core.environment:checking '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib'
+[44.443s] Level 1:colcon.colcon_core.environment:checking '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/bin'
+[44.461s] Level 1:colcon.colcon_core.environment:checking '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/pkgconfig/turtle_chase.pc'
+[44.481s] Level 1:colcon.colcon_core.environment:checking '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages'
+[44.504s] Level 1:colcon.colcon_core.shell:create_environment_hook('turtle_chase', 'pythonpath')
+[44.505s] INFO:colcon.colcon_core.shell:Creating environment hook '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/share/turtle_chase/hook/pythonpath.ps1'
+[44.579s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/share/turtle_chase/hook/pythonpath.dsv'
+[44.819s] INFO:colcon.colcon_core.shell:Creating environment hook '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/share/turtle_chase/hook/pythonpath.sh'
+[45.062s] Level 1:colcon.colcon_core.environment:checking '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/bin'
+[45.090s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(turtle_chase)
+[45.094s] INFO:colcon.colcon_core.shell:Creating package script '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/share/turtle_chase/package.ps1'
+[45.167s] INFO:colcon.colcon_core.shell:Creating package descriptor '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/share/turtle_chase/package.dsv'
+[45.308s] INFO:colcon.colcon_core.shell:Creating package script '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/share/turtle_chase/package.sh'
+[45.512s] INFO:colcon.colcon_core.shell:Creating package script '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/share/turtle_chase/package.bash'
+[45.620s] INFO:colcon.colcon_core.shell:Creating package script '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/share/turtle_chase/package.zsh'
+[45.688s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/share/colcon-core/packages/turtle_chase)
+[45.713s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[45.713s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[45.714s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[45.715s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[46.015s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.notify_send': Could not find 'notify-send'
+[46.016s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[46.016s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[46.016s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[46.018s] DEBUG:colcon.colcon_notification.desktop_notification.notify2:Failed to initialize notify2: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+[46.018s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[46.019s] INFO:colcon.colcon_core.shell:Creating prefix script '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/local_setup.ps1'
+[46.040s] INFO:colcon.colcon_core.shell:Creating prefix util module '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/_local_setup_util_ps1.py'
+[46.148s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/setup.ps1'
+[46.250s] INFO:colcon.colcon_core.shell:Creating prefix script '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/local_setup.sh'
+[46.271s] INFO:colcon.colcon_core.shell:Creating prefix util module '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/_local_setup_util_sh.py'
+[46.287s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/setup.sh'
+[46.448s] INFO:colcon.colcon_core.shell:Creating prefix script '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/local_setup.bash'
+[46.494s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/setup.bash'
+[46.579s] INFO:colcon.colcon_core.shell:Creating prefix script '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/local_setup.zsh'
+[46.643s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/setup.zsh'

@@ -1,0 +1,26 @@
+[16.708s] Invoking command in '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/src/turtle_chase': PYTHONPATH=/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_chase build --build-base /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/build install --record /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/install.log --single-version-externally-managed install_data
+[23.270s] running egg_info
+[23.542s] writing ../../build/turtle_chase/turtle_chase.egg-info/PKG-INFO
+[23.629s] writing dependency_links to ../../build/turtle_chase/turtle_chase.egg-info/dependency_links.txt
+[23.684s] writing entry points to ../../build/turtle_chase/turtle_chase.egg-info/entry_points.txt
+[23.756s] writing requirements to ../../build/turtle_chase/turtle_chase.egg-info/requires.txt
+[23.810s] writing top-level names to ../../build/turtle_chase/turtle_chase.egg-info/top_level.txt
+[24.768s] reading manifest file '../../build/turtle_chase/turtle_chase.egg-info/SOURCES.txt'
+[25.370s] adding license file 'LICENSE'
+[25.883s] writing manifest file '../../build/turtle_chase/turtle_chase.egg-info/SOURCES.txt'
+[25.907s] running build
+[25.910s] running build_py
+[26.082s] copying turtle_chase/follower.py -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/build/lib/turtle_chase
+[26.934s] running install
+[26.972s] running install_lib
+[27.277s] copying /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/build/lib/turtle_chase/follower.py -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages/turtle_chase
+[28.853s] byte-compiling /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages/turtle_chase/follower.py to follower.cpython-312.pyc
+[29.807s] running install_data
+[30.093s] running install_egg_info
+[30.341s] removing '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages/turtle_chase-0.0.0-py3.12.egg-info' (and everything under it)
+[31.152s] Copying ../../build/turtle_chase/turtle_chase.egg-info to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages/turtle_chase-0.0.0-py3.12.egg-info
+[34.590s] running install_scripts
+[37.040s] Installing follower script to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/turtle_chase
+[37.103s] Installing leader script to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/turtle_chase
+[37.275s] writing list of installed files to '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/install.log'
+[37.367s] Invoked command in '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/src/turtle_chase' returned '0': PYTHONPATH=/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_chase build --build-base /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/build install --record /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/install.log --single-version-externally-managed install_data

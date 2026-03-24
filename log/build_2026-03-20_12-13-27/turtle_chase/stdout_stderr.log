@@ -1,0 +1,25 @@
+running egg_info
+writing ../../build/turtle_chase/turtle_chase.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtle_chase/turtle_chase.egg-info/dependency_links.txt
+writing entry points to ../../build/turtle_chase/turtle_chase.egg-info/entry_points.txt
+writing requirements to ../../build/turtle_chase/turtle_chase.egg-info/requires.txt
+writing top-level names to ../../build/turtle_chase/turtle_chase.egg-info/top_level.txt
+reading manifest file '../../build/turtle_chase/turtle_chase.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/turtle_chase/turtle_chase.egg-info/SOURCES.txt'
+running build
+running build_py
+copying turtle_chase/follower.py -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/build/lib/turtle_chase
+running install
+running install_lib
+copying /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/build/lib/turtle_chase/follower.py -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages/turtle_chase
+byte-compiling /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages/turtle_chase/follower.py to follower.cpython-312.pyc
+running install_data
+copying package.xml -> /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/share/turtle_chase
+running install_egg_info
+removing '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages/turtle_chase-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/turtle_chase/turtle_chase.egg-info to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/python3.12/site-packages/turtle_chase-0.0.0-py3.12.egg-info
+running install_scripts
+Installing follower script to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/turtle_chase
+Installing leader script to /mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/install/turtle_chase/lib/turtle_chase
+writing list of installed files to '/mnt/d/Curtin_Colombo/year_3/sem_1/mxen3005/Milestone_3/mxen_ws/build/turtle_chase/install.log'
